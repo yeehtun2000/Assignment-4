@@ -1,0 +1,92 @@
+body{
+    margin:0;
+    font-family: sans-serif;
+    background: hsl(0, 10%, 92%);
+
+}
+.photo{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    margin: 50px 0; 
+    
+}
+    
+.content{
+    width: 20%;
+    margin: 15px;
+    box-sizing: border-box;
+    text-align: center;
+    padding-top: 10px;
+    box-shadow: 0 14px 28px rgba(0,0,0,0.16), 0 10px 10px rgba(0,0,0,0.22);
+    background: #f5f3ee;
+
+    
+}
+
+
+img{
+    width: 100%;
+    height: 200px;
+    text-align: center;
+    margin: 0 auto;
+    display: block;
+}
+p{
+    text-align: center;
+    font-size: 12px;
+    color: #141616;
+    padding-top: 0 8px;
+    line-height: 20px;
+}
+button{
+    text-align: center;
+    font-size: 12px;
+    color: beige;
+    width: 100px;
+    height: 30px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    font-size: italic;
+}
+.buy{
+    background: #e00707ef;
+}
+.set{
+    background: hsl(0, 94%, 49%);
+}
+.aa{
+    position: absolute;
+    top: 45%;
+    left: 55%;
+    font-size: 30px;
+    color: white;
+
+}
+.vv{
+    position: absolute;
+    top: 45%;
+    left: 33%;
+    font-size: 30px;
+    color: aliceblue;
+}
+h1{
+    text-align: center;
+    color: black;
+}
+i{
+    background-color: azure;
+    padding: 5px;
+    text-align: center;
+    color: #0d0e0d;
+    border-radius: 50px;
+    margin: 20px;
+    display: inline-block;
+}
+.yy{
+    border-bottom: 5px solid red;
+}
+.uu{
+    border-bottom: 5px solid red;
+}
